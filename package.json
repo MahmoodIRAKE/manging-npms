@@ -1,6 +1,7 @@
 {
-    "author": "mahmood irake",
+
     "name": "fcc-learn-npm-package-json",
+    "author": "mahmood irake",
     "dependencies": {
         "express": "^4.14.0"
     },
